@@ -1,4 +1,4 @@
-package com.bj.bs.factory_static_method;
+package com.bj.bs.factor_abstract;
 
 /**
  * 宝马
@@ -19,6 +19,6 @@ public class BMW extends Car{
      * */
     public void doCreate(){
 
-        System.out.println("造了一辆车，它的颜色是："+ mColor + "，座椅的材料是：" + mChair);
+        System.out.println("造了一辆宝马，它的颜色是："+ mColor + "，座椅的材料是：" + mChair);
     }
 }

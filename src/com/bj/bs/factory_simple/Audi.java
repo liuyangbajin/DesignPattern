@@ -1,4 +1,4 @@
-package com.bj.bs.factory_method;
+package com.bj.bs.factory_simple;
 
 /**
  * 奥迪

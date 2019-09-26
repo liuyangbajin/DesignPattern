@@ -1,7 +1,5 @@
 package com.bj.bs.factory_method;
 
-import com.bj.bs.factory_static_method.Car;
-
 /**
  * 抽象的工厂类
  * */

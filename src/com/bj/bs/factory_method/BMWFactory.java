@@ -1,7 +1,5 @@
 package com.bj.bs.factory_method;
 
-import com.bj.bs.factory_static_method.BMW;
-import com.bj.bs.factory_static_method.Car;
 
 /**
  * 宝马工厂，只生产宝马

@@ -1,4 +1,4 @@
-package com.bj.bs.factory_static_method;
+package com.bj.bs.factory_simple;
 
 /**
  * 简单工厂模式
@@ -11,6 +11,6 @@ public class T1 {
 
         Car car2 = CarFactory.getCarByNumber(3);
 
-        Car car3 = CarFactory.getCarByNumber(4);
+        Car car3 = CarFactory.getCarByNumber(2);
     }
 }

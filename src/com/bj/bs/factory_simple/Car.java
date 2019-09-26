@@ -1,4 +1,4 @@
-package com.bj.bs.factory_static_method;
+package com.bj.bs.factory_simple;
 
 /**
  * 定义具体实现类的公共部分

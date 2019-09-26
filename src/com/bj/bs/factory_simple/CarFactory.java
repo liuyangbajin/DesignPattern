@@ -1,4 +1,4 @@
-package com.bj.bs.factory_static_method;
+package com.bj.bs.factory_simple;
 
 /**
  * 工厂
@@ -24,15 +24,9 @@ public class CarFactory {
                 car2.doCreate();
                 return car2;
 
-            case 3: // 来一辆奔驰，要木质座椅
+            case 3: // 来一辆奥迪，要真皮座椅
 
-                Car car3 = new Benz("木质");
-                car3.doCreate();
-                return car3;
-
-            case 4: // 来一辆白色的奥迪，要真皮座椅，要跑车
-
-                Car car4 = new Audi("真皮", "绿色",2);
+                Car car4 = new Audi("真皮");
                 car4.doCreate();
                 return car4;
 

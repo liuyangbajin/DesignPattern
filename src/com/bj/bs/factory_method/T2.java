@@ -10,13 +10,7 @@ public class T2 {
         CarFactory mAudiFactory = new AudiFactory();
         mAudiFactory.getCar();
 
-        CarFactory mAudiSportsCarFactory = new AudiSportsCarFactory();
-        mAudiSportsCarFactory.getCar();
-
         CarFactory mBMWFactory = new BMWFactory();
         mBMWFactory.getCar();
-
-        CarFactory mBenzFactory = new BenzFactory();
-        mBenzFactory.getCar();
     }
 }

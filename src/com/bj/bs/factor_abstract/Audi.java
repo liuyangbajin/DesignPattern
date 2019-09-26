@@ -1,9 +1,9 @@
-package com.bj.bs.factory_method;
+package com.bj.bs.factor_abstract;
 
 /**
  * 奥迪
  * */
-public class Audi extends Car{
+public class Audi extends Car {
 
     String mChair;
 
